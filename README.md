@@ -21,12 +21,16 @@ npm install
 npm start
 
 test cases npm run test (For Testing/ jest)
+//HomeScreen
 
 [![Watch the video](https://github.com/priyangamani/ecommerceBookApp/blob/master/screenshots/Home.png)
 
-[![Watch the video](https://github.com/priyangamani/ecommerceBookApp/blob/master/screenshots/Checkout.png)
-
+//Detailed Screen
 [![Watch the video](https://github.com/priyangamani/ecommerceBookApp/blob/master/screenshots/Detail.png)
+
+
+//Add Cart Items
+[![Watch the video](https://github.com/priyangamani/ecommerceBookApp/blob/master/screenshots/Checkout.png)
 
 [![Watch the video](https://github.com/priyangamani/ecommerceBookApp/blob/master/screenshots/List.png)
 [![Watch the video](https://github.com/priyangamani/ecommerceBookApp/blob/master/screenshots/TestCase.png)
