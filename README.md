@@ -29,10 +29,12 @@ test cases npm run test (For Testing/ jest)
 [![Watch the video](https://github.com/priyangamani/ecommerceBookApp/blob/master/screenshots/Detail.png)
 
 
+[![Watch the video](https://github.com/priyangamani/ecommerceBookApp/blob/master/screenshots/List.png)
+
 //Add Cart Items
 [![Watch the video](https://github.com/priyangamani/ecommerceBookApp/blob/master/screenshots/Checkout.png)
 
-[![Watch the video](https://github.com/priyangamani/ecommerceBookApp/blob/master/screenshots/List.png)
+
 [![Watch the video](https://github.com/priyangamani/ecommerceBookApp/blob/master/screenshots/TestCase.png)
 
 
