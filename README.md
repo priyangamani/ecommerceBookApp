@@ -34,7 +34,6 @@ test cases npm run test (For Testing/ jest)
 //Add Cart Items
 [![Watch the video](https://github.com/priyangamani/ecommerceBookApp/blob/master/screenshots/Checkout.png)
 
-
 [![Watch the video](https://github.com/priyangamani/ecommerceBookApp/blob/master/screenshots/TestCase.png)
 
 
