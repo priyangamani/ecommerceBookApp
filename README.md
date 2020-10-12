@@ -1,7 +1,5 @@
 # BookApp
 
-
-
 This is BookApp developed in React Component using React Js.
 
 1.Axios
